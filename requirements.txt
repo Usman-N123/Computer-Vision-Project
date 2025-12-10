@@ -4,3 +4,4 @@ mediapipe
 scikit-learn
 numpy
 streamlit-webrtc
+protobuf>=3.20
